@@ -4,7 +4,7 @@ age=input("How old are you?")
 print("Hello "+name+"!" "Let's start your day!😊")
 print()
 
-
+jjjjk
 
 print("You wake up in your bed and realize it's 12pm.")
 print("I missed breakfeast and I'm so hungry...")
